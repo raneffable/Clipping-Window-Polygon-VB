@@ -1,0 +1,72 @@
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\tes cga\PA4_LAGI\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+D:\Document\Materi Kuliah\semester 5\CGA\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe.config
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.pdb
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\bin\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbprojAssemblyReference.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Form1.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.Resources.resources
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.GenerateResource.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.vbproj.CoreCompileInputs.cache
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.exe
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.xml
+Z:\College University Sem1-10\Semester V\Computer Graphic Animatiom\PA 4 Fix!!\PA4_LAGI_v2\PA4_LAGI\obj\Debug\PA4_LAGI.pdb
